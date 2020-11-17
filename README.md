@@ -1,6 +1,6 @@
 # A Simple Spreadsheet
 
-### Shea O'Rourke, Zibing Zhang
+### Shea O'Rourke
 
 ---
  
